@@ -1,0 +1,8 @@
+{
+  "name": "Media Help",
+  "symbol": "MEHL",
+  "decimals": 9,
+  "totalSupply": "420",
+  "tokenURI": "https://example.com/token-metadata.json",
+  "logo": "https://example.com/token-logo.png"
+}
